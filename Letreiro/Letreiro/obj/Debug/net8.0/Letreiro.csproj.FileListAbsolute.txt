@@ -1,0 +1,14 @@
+C:\Users\Alain\source\repos\Letreiro\Letreiro\bin\Debug\net8.0\Letreiro.exe
+C:\Users\Alain\source\repos\Letreiro\Letreiro\bin\Debug\net8.0\Letreiro.deps.json
+C:\Users\Alain\source\repos\Letreiro\Letreiro\bin\Debug\net8.0\Letreiro.runtimeconfig.json
+C:\Users\Alain\source\repos\Letreiro\Letreiro\bin\Debug\net8.0\Letreiro.dll
+C:\Users\Alain\source\repos\Letreiro\Letreiro\bin\Debug\net8.0\Letreiro.pdb
+C:\Users\Alain\source\repos\Letreiro\Letreiro\obj\Debug\net8.0\Letreiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alain\source\repos\Letreiro\Letreiro\obj\Debug\net8.0\Letreiro.AssemblyInfoInputs.cache
+C:\Users\Alain\source\repos\Letreiro\Letreiro\obj\Debug\net8.0\Letreiro.AssemblyInfo.cs
+C:\Users\Alain\source\repos\Letreiro\Letreiro\obj\Debug\net8.0\Letreiro.csproj.CoreCompileInputs.cache
+C:\Users\Alain\source\repos\Letreiro\Letreiro\obj\Debug\net8.0\Letreiro.dll
+C:\Users\Alain\source\repos\Letreiro\Letreiro\obj\Debug\net8.0\refint\Letreiro.dll
+C:\Users\Alain\source\repos\Letreiro\Letreiro\obj\Debug\net8.0\Letreiro.pdb
+C:\Users\Alain\source\repos\Letreiro\Letreiro\obj\Debug\net8.0\Letreiro.genruntimeconfig.cache
+C:\Users\Alain\source\repos\Letreiro\Letreiro\obj\Debug\net8.0\ref\Letreiro.dll
